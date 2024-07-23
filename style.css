@@ -55,6 +55,7 @@ p.label-button:hover {
   background-color: #bcd94c;
   color: #333333;
   cursor: pointer;
+  transition: all 0.8s ease;
 }
 
 .profile-pic {
